@@ -10,4 +10,3 @@
 **/*.terraform.tfstate*
 **/.terraform.lock.hcl
 **/.terraform.lock.hcl
-Linux/Scripts/diif_$*_$@.sh 
